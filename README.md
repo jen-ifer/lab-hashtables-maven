@@ -4,8 +4,8 @@ A lab on hash tables, structured for Maven.
 
 **Authors**
 
-* Your Name Here
-* Your Name Here
+* Lily Blanchard
+* Jenifer Silva
 * Samuel A. Rebelsky (starter code)
 
 **Citations**
